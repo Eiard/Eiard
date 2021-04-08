@@ -23,7 +23,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiard&show_icons=true&theme=dark&title_color=050505&text_color=f44a01&bg_color=07b8bb&locale=en&layout=compact" alt="eiard" /></p>
-
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eiard&show_icons=true&theme=cobalt&title_color=32b2c3&locale=en" alt="eiard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eiard&" alt="eiard" /></p>
