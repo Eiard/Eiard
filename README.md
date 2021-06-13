@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiard" alt="eiard" /></a> </p>
 
-- 🌱 I’m currently learning **Java后端 嵌入式开发**
+- 🌱 I’m currently learning **Java后端 嵌入式开发 Cplusplus/C**
 
 - 📫 How to reach me **3067132996@qq.com**
 
