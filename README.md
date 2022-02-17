@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eiard</h1>
+<h1 align="center">Hi 👋, I'm Eiard  ![](https://visitor-badge.glitch.me/badge?page_id=Eiard.readme)</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 <
 - 🌱 I’m currently learning **Java后端 嵌入式开发 Cplusplus/C**
