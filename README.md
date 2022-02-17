@@ -10,4 +10,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eiard&" alt="eiard" /></p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiard&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
