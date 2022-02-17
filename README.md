@@ -5,4 +5,4 @@
 
 <h3 align="center">- 📫 How to reach me **3067132996@qq.com** </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eiard&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
