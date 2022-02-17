@@ -5,6 +5,3 @@
 <h3 align="center">- 📫 How to reach me **3067132996@qq.com** </h3>
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eiard&theme=tokyonight&show_icons=true)
-
