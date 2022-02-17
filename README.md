@@ -5,4 +5,7 @@
 
 <h3 align="center">- 📫 How to reach me **3067132996@qq.com** </h3>
 
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eiard&layout=compact&langs_count=10&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eiard&layout=compact&langs_count=10&hide=cmake,makefile)](https://github.com/anuraghazra/github-readme-stats)
+ 
