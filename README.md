@@ -8,3 +8,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eiard&show_icons=true&theme=dark&title_color=050505&text_color=f44a01&bg_color=07b8bb&locale=en&layout=compact" alt="eiard" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eiard&" alt="eiard" /></p>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiard&theme=tokyonight&show_icons=true)
